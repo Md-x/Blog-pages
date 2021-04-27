@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://md-x.github.io/Blog-pages/sitemap.xml
+Sitemap: https://techspot.com.ng/sitemap.xml
