@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Techhub",
+    "title": "Tech Spot",
     "description": "",
     "home_page_url": "https://techspot.com.ng",
     "feed_url": "https://techspot.com.ng/feed.json",
     "user_comment": "",
-    "icon": "https://techspot.com.ng/media/website/Artboard-3-2.png",
     "author": {
         "name": "Arthur"
     },
